@@ -23,7 +23,7 @@
 # Termux
 ```bash
 > pkg install git -y
-> git clone https://github.com/caliphdev/bot-whatsapp
+> git clone https://github.com/DAMARJATI88/bot-whatsapp
 > cd bot-whatsapp
 > bash install.sh
 > node index
@@ -32,7 +32,7 @@
 # Ubuntu
 ```bash
 > sudo apt install git -y
-> sudo git clone https://github.com/caliphdev/bot-whatsapp
+> sudo git clone https://github.com/DAMARJATI88/bot-whatsapp
 > sudo cd bot-whatsapp
 > sudo bash root.sh
 > sudo node index
